@@ -20,8 +20,9 @@ MacOS and Windows:
 10.	To launch the program, enetr the following command:
 
 '''r
-shiny::runGitHub(“kevin931/Moby-Dick”)
+  shiny::runGitHub(“kevin931/Moby-Dick”)
 '''
+
 11.	On subsequent launches, repeat step 10.
 12.	There will be subsequent updates to the app on my Github page, and re-running the installer will be recommended at that time to update existing packages and acquire new packages.
 13.	If you have encountered any questions or issues, please reach out to me via kevinwang@smu.edu.
