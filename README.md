@@ -1,6 +1,6 @@
 # *Moby-Dick*
 
-## about
+## About
 
 This is the Shiny App for the digital humanities edition of *Moby-Dick*.
 
@@ -18,10 +18,9 @@ MacOS and Windows:
 8.	Launch the R console from your Launchpad for Mac or the start menu for Windows.
 9.	For the first time you run the program, run the installer by dragging the file “installer.R” into the console and hit the “enter” key. If prompted, type “y” or select “yes” to continue installation of required packages.
 10.	To launch the program, enetr the following command:
-'''
 
+'''r
 shiny::runGitHub(“kevin931/Moby-Dick”)
-
 '''
 11.	On subsequent launches, repeat step 10.
 12.	There will be subsequent updates to the app on my Github page, and re-running the installer will be recommended at that time to update existing packages and acquire new packages.
