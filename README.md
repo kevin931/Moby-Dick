@@ -20,7 +20,9 @@ MacOS and Windows:
 10.	To launch the program, enetr the following command:
 
 '''r
+
   shiny::runGitHub(“kevin931/Moby-Dick”)
+
 '''
 
 11.	On subsequent launches, repeat step 10.
